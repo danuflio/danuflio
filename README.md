@@ -1,5 +1,7 @@
 👋 Hi, I’m @danuflio
+
 👀 I’m interested in web development and cybersecurity.
+
 🌱 I’m currently learning Typescript, React, and backend development.
 
 
